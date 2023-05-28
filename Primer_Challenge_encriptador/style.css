@@ -7,3 +7,52 @@ body {
     background: #090;
 
 }
+
+.container {
+    margin: auto;
+    width: 960px;
+    height: 650px;
+    padding: 5px;
+    background: #009;
+}
+
+.logo {
+    width: 100%;
+    float: left;
+    background: #863;
+}
+
+.left {
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background: #866;
+}
+
+.right {
+    float: right;
+    width: 30%;
+    height: auto;
+    border-radius: 24px;
+    background: #880;
+}
+
+.left-button {
+    float: left;
+    width: 70%;
+    height: auto;
+    border-radius: 24px;
+    background: #955;
+}
+
+.logoImg {
+    margin-top: 1%;
+    margin-left: 5%;
+    float: inherit;
+}
+
+.title {
+    float: inherit;
+    margin-left: 20%;
+}
